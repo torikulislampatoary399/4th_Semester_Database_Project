@@ -69,13 +69,6 @@ public class UniversityServer extends JFrame implements ActionListener{
         username.setBounds(170,1,950,100);      
         add(username);
         
-        JLabel name= new JLabel("Developed And Maintainend By"
-                + " Torikul Islam Patoary"
-                + " ID:242031009(33th_UG");
-        name.setForeground(Color.BLACK);
-        name.setBounds(170,50,800,100);      
-        add(name);
-        
         leave=new JMenu("Leave");
         leave.setForeground(Color.RED);
         leave.setBackground(Color.RED);
