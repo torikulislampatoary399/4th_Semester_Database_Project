@@ -23,6 +23,3 @@ create table student(
     cell varchar(20),
     pass varchar(30)
 );
-insert into faculty values('Nahid Imtiaz','03L','CSE','0182334453','unknown','03L','Lecturer');
-insert into faculty values('Afsar Uddin','02C','CSE','01823251456','unknown','02C','Chairman');
-insert into faculty values('Shorab Hossain','01D','CSE','01823251223','unknown','01D','Dean');
