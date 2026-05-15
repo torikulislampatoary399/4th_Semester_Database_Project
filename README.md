@@ -28,11 +28,11 @@ The goal of this project is to understand how database systems work and how to i
 
 ## 👨‍💻 Author
 
-* Torikul Islam Patwary
-* Amit Poddar
-* Shaidul Islam Sohan
-* Iftekharul Emon
 * Ahmed Jamil
+* Torikul Islam Patoary 
+* Shaidul Islam Sohan
+* Amit podder
+* Iftekharul Emon
 
 ## 📄 License
 
